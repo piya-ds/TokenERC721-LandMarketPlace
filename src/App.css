@@ -1,0 +1,9 @@
+/* .App {
+  text-align: center;
+} */
+
+
+.Register {
+  display: flex;
+  flex-direction: row;
+}
